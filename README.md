@@ -9,8 +9,15 @@ Useful one line commands and/or links
 
 
 ### Websites
+#### Tools
+| URL | Description |
+| --- | --- |
+| [Lullar](https://www.lullar.com/) | Search all websites attached to specified email id. Only looks for usernames, not very useful tool |
+|[Stain Solutions](https://web.extension.illinois.edu/stain/)| Washing instructions for particular stains on specific fabrics|
+|[iLovePDF](https://www.ilovepdf.com/)|Professional PDF online tool|
+
+#### Fun
 | URL | Description |
 | --- | --- |
 | [WikiTrivia](https://wikitrivia.tomjwatson.com/) | Boredom: Put events in the right order of timeline |
-| [Lullar](https://www.lullar.com/) | Search all websites attached to specified email id. Only looks for usernames, not very useful tool |
-|[Stain Solutions](https://web.extension.illinois.edu/stain/)| Washing instructions for particular stains on specific fabrics|
+|[The Deap Sea](https://neal.fun/deep-sea/)|Deep sea animals list|
