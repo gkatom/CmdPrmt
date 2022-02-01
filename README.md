@@ -13,4 +13,4 @@ Useful one line commands and/or links
 | --- | --- |
 | [WikiTrivia](https://wikitrivia.tomjwatson.com/) | Boredom: Put events in the right order of timeline |
 | [Lullar](https://www.lullar.com/) | Search all websites attached to specified email id. Only looks for usernames, not very useful tool |
-
+|[Stain Solutions](https://web.extension.illinois.edu/stain/)| Washing instructions for particular stains on specific fabrics|
