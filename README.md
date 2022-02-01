@@ -11,4 +11,6 @@ Useful one line commands and/or links
 ### Websites
 | URL | Description |
 | --- | --- |
-| [WikiTrivia](https://wikitrivia.tomjwatson.com/) | Boredom: Put events in the right order of timeline|
+| [WikiTrivia](https://wikitrivia.tomjwatson.com/) | Boredom: Put events in the right order of timeline |
+| [Lullar](https://www.lullar.com/) | Search all websites attached to specified email id. Only looks for usernames, not very useful tool |
+
