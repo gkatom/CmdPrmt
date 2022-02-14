@@ -15,6 +15,7 @@ Useful one line commands and/or links
 | [Lullar](https://www.lullar.com/) | Search all websites attached to specified email id. Only looks for usernames, not very useful tool |
 |[Stain Solutions](https://web.extension.illinois.edu/stain/)| Washing instructions for particular stains on specific fabrics|
 |[iLovePDF](https://www.ilovepdf.com/)|Professional PDF online tool|
+|[Free Learning List](https://freelearninglist.org/)|List of free learning sites|
 
 #### Fun
 | URL | Description |
